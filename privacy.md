@@ -16,4 +16,4 @@ Cloud Diagrams for Confluence ("the App") renders diagrams entirely inside the u
 - Data transmission: The App makes no external network connections. Diagram content never leaves the user's Confluence site.
 - Third parties: None. No subprocessors.
 - Changes: Material changes to this policy will be published at this URL with a new effective date.
-- Contact: Forge Studio via the Atlassian Marketplace listing for Cloud Diagrams for Confluence.
+- Contact: Seventh Visual via the Atlassian Marketplace listing for Cloud Diagrams for Confluence.
