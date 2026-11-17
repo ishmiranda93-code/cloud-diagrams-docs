@@ -46,6 +46,5 @@ Icon coverage in this version: **64 AWS service icons** (API Gateway, Lambda, S3
 - **Diagram looks stale:** reload the page; rendering is done fresh in your browser on every view.
 ## Support
 
-Contact Forge Studio via the Atlassian Marketplace listing for Cloud Diagrams for Confluence. Response target: 2 business days.
-
+Contact Seventh Visual via the Atlassian Marketplace listing for Cloud Diagrams for Confluence. Response target: 2 business days.
 Privacy policy: [Privacy Policy](privacy.html)
